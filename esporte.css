@@ -1,0 +1,27 @@
+body{
+
+    margin-top: 200px;
+    background-color: blue;
+
+}
+#carosel{
+
+border: solid;
+border-radius: 15px;
+width: 640px;
+height: 360px;
+overflow: hidden;
+border: none;
+
+}
+#fotos{
+
+width: 1100;
+animation: animacao 15s infinite;
+
+}
+#fotos img{
+
+    width: 200px;
+
+}
